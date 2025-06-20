@@ -1,0 +1,10 @@
+{
+  "id": "versabot-launcher",
+  "name": "VersaBot Launcher",
+  "version": "1.0.2",
+  "minAppVersion": "1.0.0",
+  "description": "Add a ribbon button that opens VersaBot in a tab, with custom icon",
+  "author": "YourName",
+  "authorUrl": "https://www.versabot.cn/?layout=ob",
+  "main": "main.js"
+}
